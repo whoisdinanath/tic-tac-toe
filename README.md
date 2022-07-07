@@ -1,0 +1,1 @@
+# This is a TIC-TAC-TOE project made using C programming language. Just get the code compile it and run, then it's ready to go!
